@@ -1,0 +1,17 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\Users\\Viper_Pc\\esp\\esp-idf",
+  "idf.toolsPathWin": "C:\\Users\\Viper_Pc\\.espressif",
+  "idf.pythonInstallPath": "C:\\Users\\Viper_Pc\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-ftdi.cfg"
+  ],
+  "idf.portWin": "COM26",
+  "idf.customExtraVars": {
+    "OPENOCD_SCRIPTS": "C:\\Users\\Viper_Pc\\.espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20241016/openocd-esp32/share/openocd/scripts",
+    "IDF_CCACHE_ENABLE": "1",
+    "ESP_ROM_ELF_DIR": "C:\\Users\\Viper_Pc\\.espressif\\tools\\esp-rom-elfs\\20241011/",
+    "IDF_TARGET": "esp32c3"
+  },
+  "idf.flashType": "UART"
+}
